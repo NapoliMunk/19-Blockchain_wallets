@@ -2,6 +2,6 @@
 Streamlit application that sends ether to Wallet address and pays individuals a wag based on hourly.
 
 
-<img src="Images/Ganache_account.png"  width=10% height=10%>
+<img src="Instructions/Starter-Code/Images/Ganache_account.png"  width=100% height=100%>
 
-<img src="Images/Chain.png"  width=10% height=10%>
+<img src="Instructions/Starter-Code/Images/Chain.png"  width=100% height=100%>
